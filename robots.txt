@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tentichos.github.io/sitemap.html.gz
+Sitemap: https://tentichos.github.io/app/sitemap.html.gz
+Sitemap: https://tentichos.github.io/assets/sitemap.html.gz
+Sitemap: https://tentichos.github.io/css/sitemap.html.gz
+Sitemap: https://tentichos.github.io/includes/sitemap.html.gz
+Sitemap: https://tentichos.github.io/item/sitemap.html.gz
+Sitemap: https://tentichos.github.io/src/sitemap.html.gz
